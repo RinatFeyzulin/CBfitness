@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CBfitness.BL\CBfitness.BL.csproj" />
+  </ItemGroup>
+
 </Project>
